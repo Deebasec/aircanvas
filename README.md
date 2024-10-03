@@ -23,7 +23,7 @@ Before running the project, ensure you have the following installed:
 1. Clone this repository:
 
 
-   git clone https://github.com/deebasec/air-canvas.git
+   git clone 
    cd air-canvas
    
 
